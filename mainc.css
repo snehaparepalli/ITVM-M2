@@ -1,0 +1,73 @@
+#custmo_nav{
+    font-family:roboto;
+    font-size: 20px;
+    font-style:italic;
+    color: rgb(223, 58, 58) !important;
+
+}
+#custmo_nav1{
+    font-family:roboto;
+    font-size: 20px;
+    font-style:italic;
+    color: rgb(223, 58, 58) !important;
+
+}
+#custmo_nav2{
+    font-family:roboto;
+    font-size: 20px;
+    font-style:italic;
+    color: rgb(223, 58, 58) !important;
+
+}
+#custmo_nav3{
+    font-family:roboto;
+    font-size: 20px;
+    font-style:italic;
+    color: rgb(223, 58, 58) !important;
+
+}
+.logo_size{
+    height:60px;
+    width:60px;
+}
+.banner_container{
+    background-image: url('ag5.png');
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
+.head{
+    color:greenyellow;
+    font-family:roboto;
+    font-size:80px;
+    font-style:italic;
+}
+.btn-color{
+    padding: 8px;
+    border-width:1px;
+    background-color:rgb(50, 130, 59);
+    border-style:solid;
+    border-radius: 12px;
+    border-color: coral;
+    font-family: roboto;
+    font-size:20px;
+    font-style:italic;
+}
+.btn-color2{
+    padding: 8px;
+    border-width:1px;
+    background-color:rgb(170, 207, 21);
+    border-style:solid;
+    border-radius: 12px;
+    border-color: antiquewhite;
+    color:black;
+    font-family: roboto;
+    font-size:20px;
+    font-style:italic;
+}
+.para{
+    color:rgb(34, 109, 34);
+    font-family:roboto;
+    font-size:40px;
+    font-style:italic;
+}

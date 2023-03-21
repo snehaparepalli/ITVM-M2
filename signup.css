@@ -1,0 +1,26 @@
+.logo_size{
+    height:60px;
+    width:60px;
+}
+.signup{
+    background-image:url('signup.jpg');
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
+.lg{
+    height: 7vh !important;;
+    width: 30vw !important;;
+}
+.bd{
+    border-radius:12px;
+    
+}
+.pa{
+    padding-top: 100px;
+}
+.head{
+    font-family: roboto;
+    font-size: 25px;
+    font-style: italic;
+}

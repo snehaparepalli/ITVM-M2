@@ -1,0 +1,49 @@
+.logo_size{
+    height:60px;
+    width:60px;
+}
+#custmo_nav{
+    font-family:roboto;
+    font-size: 20px;
+    font-style:italic;
+    color: rgb(223, 58, 58) !important;
+
+}
+#custmo_nav1{
+    font-family:roboto;
+    font-size: 20px;
+    font-style:italic;
+    color: rgb(223, 58, 58) !important;
+
+}
+#custmo_nav2{
+    font-family:roboto;
+    font-size: 20px;
+    font-style:italic;
+    color: rgb(223, 58, 58) !important;
+
+}
+#custmo_nav3{
+    font-family:roboto;
+    font-size: 20px;
+    font-style:italic;
+    color: rgb(223, 58, 58) !important;
+
+}
+.cart{
+    color:black;
+}
+.productpage{
+    background-color: rgb(218, 218, 200);
+    height:100vh;
+    width:100vw;
+}
+.image1{
+    border-radius: 50%;
+    height:15vh;
+    width:10vw;
+}
+.h1{
+    font-family:roboto;
+    font-size:25px;
+}
